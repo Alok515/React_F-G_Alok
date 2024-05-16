@@ -38,8 +38,7 @@ Table: Users can navigate through the data presented in a tabular format.
 
 Project Structure
 ```sh
-Copy code
-your-repository/
+React_F-G_Alok/
 ├── node_modules/
 ├── public/
 │   ├── index.html
