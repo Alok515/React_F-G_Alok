@@ -14,7 +14,7 @@ Follow these steps to set up the application:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Alok515/React_F-G_Alok.git
 Navigate to the project directory:
 sh
 Copy code
@@ -37,7 +37,7 @@ Feedback Form: Users can submit their feedback.
 Table: Users can navigate through the data presented in a tabular format.
 
 Project Structure
-plaintext
+''''
 Copy code
 your-repository/
 ├── node_modules/
@@ -55,7 +55,7 @@ your-repository/
 ├── .gitignore
 ├── package.json
 └── README.md
-
+''''
 Available Scripts
 npm run dev: Starts the development server.
 npm run build: Builds the app for production.
