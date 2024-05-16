@@ -37,7 +37,7 @@ Feedback Form: Users can submit their feedback.
 Table: Users can navigate through the data presented in a tabular format.
 
 Project Structure
-''''
+```sh
 Copy code
 your-repository/
 ├── node_modules/
@@ -55,7 +55,7 @@ your-repository/
 ├── .gitignore
 ├── package.json
 └── README.md
-''''
+```
 Available Scripts
 npm run dev: Starts the development server.
 npm run build: Builds the app for production.
